@@ -1,0 +1,1 @@
+Trillo is project that I build to learn Flexbox. The project was designed by Jonas Schmedtman for his course on Udemy: Advanced CSS and Sass: Flexbox, Grid, Animations and More! 
